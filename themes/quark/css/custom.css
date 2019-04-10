@@ -1,0 +1,18 @@
+.hola {
+  color: rgb(105, 120, 248);
+  text-align: center;
+}
+
+iframe{
+   text-align: center;
+}
+
+body{
+  background-image: linear-gradient(to top, #ffffff 0%, #e0f4ff 100%);  
+}
+
+#header{
+
+  background-image: linear-gradient(120deg, #c2e9fb 0%,  #a1c4fd 100%);
+              
+}
